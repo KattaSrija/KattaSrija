@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srija Katta
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in learning Full Stack Web Development and solving DSA problems in GeeksForGeeks and leetcode,etc.. 
 - 🌱 I’m currently learning Frontend web development
 - 📫 GMail:kattasrija2004@gmail.com
 
